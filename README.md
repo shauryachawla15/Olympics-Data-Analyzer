@@ -17,21 +17,12 @@ The project is designed as a mini data analytics dashboard and can be extended w
 
 🛠️ Tech Stack
 
-Python 3.x
-Pandas – data analysis
-NumPy – numerical operations
-Matplotlib – visualizations
-Jupyter Notebook – development + presentation
+1) Python 3.x
+2) Pandas – data analysis
+3) NumPy – numerical operations
+4) Matplotlib – visualizations
+5) Jupyter Notebook – development + presentation
 
-📊 Sample Dataset
-Year	Athlete	Country	Sport	Medal
-2008	Usain Bolt	Jamaica	Athletics	Gold
-2008	Michael Phelps	USA	Swimming	Gold
-2012	Mo Farah	UK	Athletics	Gold
-2016	Simone Biles	USA	Gymnastics	Gold
-2020	Neeraj Chopra	India	Javelin	Gold
-📈 Output Examples
-🥇 Medal Tally by Country
 
 Bar chart showing total medals per country.
 
