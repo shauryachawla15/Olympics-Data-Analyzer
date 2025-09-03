@@ -54,8 +54,7 @@ Olympics-Data-Analyzer/
 
 ## ✅ How to Run
 
-### 1. Clone this repo:
-```bash
+### 1. Clone the Repo:
 git clone https://github.com/yourusername/Olympics-Data-Analyzer.git
 cd Olympics-Data-Analyzer
 
